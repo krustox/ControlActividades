@@ -1,0 +1,150 @@
+#log-in h1{
+	text-align:center;
+	font-size: 30px;
+	text-shadow: black 1px 1px 1px;
+}
+
+#log-in{
+	color: #666666;
+}
+
+#log-in a{
+
+	font-size: 21px;
+	color: #666666;
+	font-size: 20px;
+	margin: 20px;
+}
+#log-in form{
+	padding: 50px;
+}
+
+#log-in form input{
+	margin: 5px;
+}
+
+label{
+	display: block;
+	margin:10px;
+}
+
+
+#perfil{
+	width:95%;
+	color: #666666;
+	margin: 0 1% 0 1%;
+	padding: 1%;
+	position: relative;
+	background-color:#FFFFFF;
+	display:block;
+}
+
+#perfil1{
+	width:95%;
+	color: #666666;
+	margin: 0 1% 0 1%;
+	padding: 1%;
+	position: relative;
+	background-color:#FFFFFF;
+	display:block;
+}
+
+#perfil1 label{
+	display:inline; !important
+	margin:10%; !important
+}
+
+
+#newsletter p{
+	text-align:center;
+}
+
+#perfil h4{
+	text-align:center;
+}
+
+#perfiles{
+	width:95%;
+	color: #666666;
+	margin: 0 1% 0 1%;
+	padding: 1%;
+	position: relative;
+	background-color:#FFFFFF;
+}
+
+#accordion{
+	float: left;
+	background-color:#FFFFFF;
+	margin-bottom: 10px;
+}
+
+#accordion p{
+	font-size: 13px;
+	width: 230px;
+}
+
+#accordion h3{
+	font-size: 15px;
+}
+
+
+#accordion p a{
+	color: rgb(0,0,255);
+}
+
+#info{
+	float: left;
+	margin-left:85px;
+	background-color:#FFFFFF;
+}
+
+#oferta{
+	margin: 5px;
+	padding: 5px;
+	background-color:#DDDDDD;
+}
+
+.submit{
+	margin:10px;
+}
+
+.text-input{
+	width: 350px;
+}
+
+.odd{
+	background-color: #ddd !important;
+}
+
+
+.iconos{
+	background-image:  'delete-2-xxl.png'; 
+
+.icon{
+	background-image: url("tc.jpg");
+	height:25px;
+	width: 25px;
+}
+
+.butt{
+	background-color:#44c767 !important;
+	-moz-border-radius:28px !important;
+	-webkit-border-radius:28px !important;
+	border-radius:28px !important;
+	border:1px solid #18ab29 !important;
+	display:inline-block !important;
+	cursor:pointer !important;
+	color:#ffffff !important;
+	font-family:arial !important;
+	font-size:17px !important;
+	padding:16px 31px !important;
+	text-decoration:none !important;
+	text-shadow:0px 1px 0px #2f6627 !important;
+}
+.butt:hover {
+	background-color:#5cbf2a !important;
+}
+.butt:active {
+	position:relative !important;
+	top:1px !important;
+}

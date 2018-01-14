@@ -1,0 +1,309 @@
+body {
+	
+    padding: 0px;
+    margin: 0px;
+    padding-top: 130px;
+    margin-top: -130px;
+    
+}
+
+label{
+	display: block;
+}
+
+#nav {
+	
+    background: rgba(118, 70, 155, .8);
+    border: 0;
+    box-shadow: 0px 5px 8px rgba(0,0,0,.2);
+}
+
+#nav ul{
+	
+	left: 300px;
+    position: absolute;
+    top: 20px;
+}
+
+#nav li {
+
+    display: inline;
+    padding: 40px;
+    font-size: 21px;
+    
+    
+}
+
+#nav li a{
+	
+    text-decoration:none;
+    font-weight: bolder;
+    font-size:15px;
+    color:white;
+    
+}
+
+#nav li:hover {
+
+    display: inline;
+    padding: 35px;
+    font-size: 21px;
+    background-color: blue;
+    color: #ffffff;
+    text-shadow: none;
+    font-weight: bold;
+}
+
+#nav {
+	
+	padding:0;
+    padding-top: 15px;
+    padding-bottom: 8px;
+    text-shadow: none;
+    color: #fff;
+    width:100%;
+    font-size: 32px;
+    font-family: 'Droid Serif';
+    font-weight: 400;
+}
+
+#nav img{
+	
+	padding-left:12px;
+}
+
+#header {
+	
+   padding-top: 75px;
+   padding-bottom: 50px;
+   text-align: center;
+}
+
+
+
+#subscribe h2{
+	
+	text-align:center;
+}
+
+#subscribe p{
+	
+	text-align:center;
+	margin-bottom:15px;
+	font-size: 20px;
+	line-height: 1em;
+	margin-right: 25px;
+}
+
+#register h3 {
+	
+    font-size: 48px;
+    overflow:hidden;
+    line-height: normal;
+    font-weight: normal;
+    font-family: Bitter, Sanchez, Raleway, Arial, sans-serif !important;
+    color: #fff;
+    padding-bottom: 5px;
+    text-shadow:black 3px 1px 6px;
+}
+
+#register {
+	
+    color: #fff;
+    font-size: 20px;
+    font-family: Bitter, Sanchez, Raleway, Arial, sans-serif !important;
+    font-weight: 300;
+    line-height: 24px;
+    padding: 0 8px;
+    margin: 0px;
+    text-align: center;
+}
+
+#register {
+	
+    background: rgba(0,0,0,.5);
+    padding-bottom: 20px;
+    padding-left:10px;
+    padding-right:10px;
+    display: inline-block;
+}
+
+
+#subscribe,#header {
+    background: rgba(255,255,255, 1);
+    box-shadow:0px 53px 14px 58px rgba(0,0,0,.5);
+}
+#footer{
+	height:100%;
+}
+
+#subscribe{
+	display:inline-block;
+}
+#subscribe h3{
+	text-align:center;
+}
+
+#social_container{
+	margin-top:15px;
+}
+#social_container img{
+	width:64px;
+	height:64px;
+}
+
+
+#social,#footer{
+	background:rgba(118, 70, 155, .8);
+	color:white;
+	padding:1% 0;
+}
+
+#left_cont h3{
+	font-size: 100%;
+	text-align:center;
+}
+
+#register h2{
+	
+	text-align:center !important;
+}
+
+#mid_bene{
+	
+	text-align:left;
+	float:left;
+	width:36%;
+}
+#left_bene{
+	
+	float:left;
+	text-align:left;
+	width:32%;
+}
+#right_bene{
+	
+	float:left;
+	text-align:left;
+	width:32%;
+}
+
+#subscribe {
+	padding-right:0;
+}
+
+#left_cont h2{
+	
+	color: #53BDFF !important;
+	text-shadow: black 3px 1px 5px;
+	overflow:hidden;
+	padding-bottom:15px;
+	margin-bottom:0;
+	font-size:100%;
+	text-align:center;
+}
+
+#left_cont{
+	float:left;
+	width:50%;
+	margin-top:50px;
+}
+#left_cont p{
+	margin-top:20px;
+	margin-left:15px !important;
+}
+
+#right_cont{
+	float:right;
+	width:50%;
+	}
+
+#subscribe h4{
+	margin: 15px;
+	text-align:center;
+	color: #662D91;
+	font-size: 30px;
+	text-shadow: black 1px 1px 1px;
+}
+
+#footer {
+	
+    color: white;
+    font-size: 12px;
+    font-family: Bitter, Sanchez, Raleway, Arial, sans-serif !important;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#redes{
+	
+	display:inline-block;
+}
+
+
+/*----------------------------------------------------------------------*/
+#login h1{
+	text-align:center;
+	color: #662D91;
+	font-size: 30px;
+	text-shadow: black 1px 1px 1px;
+}
+
+#login a{
+	font-size: 20px;
+	margin: 20px;
+}
+#login form{
+	padding: 50px;
+}
+
+#login form input{
+	margin: 20px;
+}
+
+/*------------------------------------------------------------------------*/
+#help {
+	text-align:center;
+	margin-bottom:15px;
+	font-size: 20px;
+	line-height: 1em;
+}
+
+#ayuda {
+	margin: 0 auto;
+	width: 80%;
+}
+
+/*------------------------------------------------------------------------*/
+
+#infousuario{
+	margin: 0 auto;
+	width: 80%;
+	
+}
+
+
+/*------------------------------------------------------------------------*/
+.center{
+	text-align:center;
+}
+
+.noticias{
+	
+	display: inline-block;
+}
+
+.relleno{
+	
+	margin-top: 50px; 
+	float: left; 
+	width: 50%;
+}
+
+.info_image{
+	text-align:center;
+	margin-top:10px;
+	width:128px;
+	height:140px;
+}
